@@ -1,6 +1,6 @@
 #/bin/bash
-repository1="https://kapils-repos:Kgithub2019@github.com/kapils-repos/cross-repo.git"
-repository2="https://pratheeknm:Pratheek123@github.com/pratheeknm/myrepo.git"
+repository1="https://kapils-repos:Kgithub2019@github.com/kapils-repos/Developer-Private.git"
+repository2="https://pratheeknm:Pratheek123@github.com/pratheeknm/SolutionCenter-Private.git"
 localFolder="C:/Git/cloned_repo"
 echo $localFolder
 
